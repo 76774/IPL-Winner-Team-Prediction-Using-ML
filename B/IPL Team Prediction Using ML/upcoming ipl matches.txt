@@ -1,0 +1,60 @@
+IPL Teams	IPL Venue	IPL Date	IPL Time	IPL Days
+Chennai Super Kings Vs Sunrisers Hyderabad	Mumbai	23 March 2020	8:00PM	Saturday
+Kolkata Knight Riders Vs Rajasthan Royals	Mohali	24 March 2020	4:00pm	Sunday
+Sunrisers Hyderabad Vs Mumbai Indians	Kolkata	24 March 2020	8:00pm	Sunday
+Chennai Super Kings Vs Kings XI Punjab	Chennai	25 March 2020	8:00pm	Monday
+Delhi Capitals Vs Mumbai Indians	Jaipur	26 March 2020	8:00pm	Tuesday
+Sunrisers Hyderabad Vs Kolkata Knight Riders	Hyderabad	27 March 2020	8:00pm	Wednesday
+Rajasthan Royals Vs Royal Challengers Bangalore	Bengaluru	28 March 2020	8:00pm	Friday
+Delhi Capitals Vs Chennai Super Kings	Mumbai	29 March 2020	8:00pm	Saturday
+Royal Challengers Bangalore Vs Sunrisers Hyderabad	Kolkata	30 March 2020	4:00pm	Sunday
+Mumbai Indians vs Kings XI Punjab	Bengaluru	30 March 2020	8:00pm	Sunday
+Kolkata Knight Riders Vs Rajasthan Royals	Mohali	1 April 2020	8:00pm	Monday
+Kings XI Punjab Vs Royal Challengers Bangalore	Kolkata	2 April 2020	8:00pm	Tuesday
+Mumbai Indians Vs Rajasthan Royals	Mumbai	3 April 2020	8:00pm	Wednesday
+Chennai Super Kings Vs Sunrisers Hyderabad	Jaipur	4 April 2020	8:00pm	Friday
+Delhi Capitals Vs Royal Challengers Bangalore	Mohali	5 April 2020	8:00pm	Saturday
+Kings XI Punjab Vs Kolkata Knight Riders	Pune	6 April 2020	4:00pm	Sunday
+Rajasthan Royals Vs Chennai Super Kings	Kolkata	6 April 2020	8:00pm	Sunday
+Delhi Capitals Vs Sunrisers Hyderabad	Bengaluru	7 April 2020	8:00pm	Monday
+Kolkata Knight Riders Vs Mumbai Indians	Hyderabad	8 April 2020	8:00pm	Tuesday
+Rajasthan Royals Vs Kings XI Punjab	Jaipur	9 April 2020	8:00pm	Wednesday
+Sunrisers Hyderabad Vs Royal Challengers Bangalore	Delhi	10 April 2020	8:00pm	Thursday
+Kings XI Punjab Vs Rajasthan Royals	Mumbai	11 April 2020	8:00pm	Friday
+Mumbai Indians Vs Kolkata Knight Riders	Bengaluru	12 April 2020	8:00pm	Saturday
+Sunrisers Hyderabad Vs Delhi Capitals	Hyderabad	13 April 2020	4:00pm	Sunday
+Chennai Super Kings Vs Royal Challengers Bangalore	Delhi	13 April 2020	8:00pm	Sunday
+Kings XI Punjab Vs Mumbai Indians	Pune	14 April 2020	8:00pm	Monday
+Kolkata Knight Riders Vs Chennai Super Kings	Jaipur	15 April 2020	8:00pm	Tuesday
+Delhi Capitals Vs Rajasthan Royals	Bengaluru	16 April 2020	8:00pm	Wednesday
+Royal Challengers Bangalore Vs Mumbai Indians	Pune	17 April 2020	8:00pm	Thursday
+Chennai Super Kings Vs Delhi Capitals	Bengaluru	18 April 2020	8:00pm	Friday
+Royal Challengers Bangalore Vs Kolkata Knight Riders	Delhi	19 April 2020	8:00pm	Saturday
+Rajasthan Royals Vs Sunrisers Hyderabad	Kolkata	20 April 2020	4:00pm	Sunday
+Chennai Super Kings Vs Mumbai Indians	Indore	20 April 2020	8:00pm	Sunday
+Delhi Capitals Vs Kolkata Knight Riders	Pune	21 April 2020	8:00pm	Monday
+Sunrisers Hyderabad Vs Kings XI Punjab	Hyderabad	22 April 2020	8:00pm	Tuesday
+Royal Challengers Bangalore Vs Chennai Super Kings	Mumbai	23 April 2020	8:00pm	Wednesday
+Mumbai Indians Vs Sunrisers Hyderabad	Indore	24 April 2020	8:00pm	Thursday
+Delhi Capitals Vs Kings XI Punjab	Hyderabad	25 April 2020	8:00pm	Friday
+Rajasthan Royals Vs Kings XI Punjab	Jaipur	26 April 2020	8:00pm	Saturday
+Sunrisers Hyderabad Vs Chennai Super Kings	Kolkata	27 April 2020	4:00pm	Sunday
+Royal Challengers Bangalore Vs Delhi Capitals	Delhi	28 April 2020	8:00pm	Sunday
+Kolkata Knight Riders Vs Kings XI Punjab	Jaipur	29 April 2020	8:00PM	Monday
+Chennai Super Kings Vs Rajasthan Royals	Indore	30 April 2020	8:00PM	Tuesday
+Kings XI Punjab Vs Sunrisers Hyderabad	Delhi	31 April 2020	8:00PM	Wednesday
+Rajasthan Royals Vs Kolkata Knight Riders	Pune	1 May 2020	8:00pm	Thursday
+Kolkata Knight Riders Vs Delhi Capitals	Mumbai	2 May 2020	8:00PM	Friday
+Kings XI Punjab Vs Chennai Super Kings	Indore	3 May 2020	8:00pm	Saturday
+Royal Challengers Bangalore Vs Rajasthan Royals	Kolkata	4 May 2020	4:00pm	Sunday
+Kolkata Knight Riders Vs Sunrisers Hyderabad	Mumbai	4 May 2020	8:00pm	Sunday
+Mumbai Indians Vs Delhi Capitals	Bengaluru	5 May 2020	8:00pm	Monday
+Royal Challengers Bangalore Vs Kings XI Punjab	Delhi	6 May 2020	8:00pm	Tuesday
+Sunrisers Hyderabad Vs Mumbai Indians	Jaipur	7 May 2020	8:00pm	Wednesday
+Rajasthan Royals Vs Delhi Capitals	Hyderabad	8 May 2020	8:00pm	Thursday
+Chennai Super Kings Vs Kolkata Knight Riders	Delhi	9 May 2020	8:00pm	Friday
+Sunrisers Hyderabad Vs Rajasthan Royals	Pune	10 May 2020	4:00pm	Saturday
+Kolkata Knight Riders Vs Royal Challengers Bangalore	Mumbai	10 May 2020	8:00pm	Saturday
+Kings XI Punjab Vs Delhi Capitals	Kolkata	11 May 2020	8:00PM	Sunday
+TBD	Kolkata	12 May 2020	8:00pm	Monday
+TBD	Mumbai	13 May 2020	8:00pm	Tuesday
